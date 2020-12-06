@@ -17,6 +17,7 @@ https://github.com/CSSEGISandData/COVID-19
 * Thymeleaf
 * Spring Framework 
 * Spring Boot
+* JUnit
 
 ## Prerequisites
 
