@@ -45,7 +45,7 @@ The following items should be installed in your system:
 
     CSS files are generated from the Maven build. You can either build them on the command line `./mvnw generate-resources` project then `Maven -> Generates sources and Update Folders`.
 
-    A run configuration named `CovidTracker` should have been created for you if you're using a recent Ultimate version. Otherwise, run the application by right clicking on the `BankPalmasApplication` main class and choosing `Run 'CovidTracker'`.
+    A run configuration named `CovidTracker` should have been created for you if you're using a recent Ultimate version. Otherwise, run the application by right clicking on the `CovidTracker` main class and choosing `Run 'CovidTracker'`.
 
 4) Navigate to Petclinic
 
