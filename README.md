@@ -4,11 +4,18 @@ This is the coronavirus infections counting app.
 
 ## Features
 
-The application shows information about new and old infections from around the world by retrieving data from a CSV file
+The application shows information about new and old infections from around the world by retrieving data from a CSV file,
+the app also uses the world map.
+
 
 Link to the CSV file:
 Data source used: Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE:
 https://github.com/CSSEGISandData/COVID-19
+
+Map used to show information: 
+www.openstreetmap.org
+
+
 
 ## Technologies
 
