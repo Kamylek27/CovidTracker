@@ -12,9 +12,8 @@ Link to the CSV file:
 Data source used: Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE:
 https://github.com/CSSEGISandData/COVID-19
 
-Map used to show information: 
-www.openstreetmap.org
-
+JavaScript library used to display information on a map: 
+https://leafletjs.com/
 
 
 ## Technologies
